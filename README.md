@@ -1,3 +1,13 @@
+#My comments:
+First watched/followed the Agent dev school from Shaw
+https://www.youtube.com/watch?v=ArptLpQiKfI(https://www.youtube.com/watch?v=ArptLpQiKfI)
+
+and then cloned the starter ( the readme below my comments are from the starter... )
+
+added a character, the env variables needed and thats it, works right away! Magic!
+
+#Original README:
+
 # Eliza
 
 ## Edit the character files
@@ -7,6 +17,7 @@ Open `src/character.ts` to modify the default character. Uncomment and edit.
 ### Custom characters
 
 To load custom characters instead:
+
 - Use `pnpm start --characters="path/to/your/character.json"`
 - Multiple character files can be loaded simultaneously
 
@@ -49,4 +60,5 @@ cp .env.example .env
 ```bash
 pnpm i && pnpm start
 ```
+
 Note: this requires node to be at least version 22 when you install packages and run the agent.
