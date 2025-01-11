@@ -1,12 +1,14 @@
-#My comments:
-First watched/followed the Agent dev school from Shaw
+# My comments:
+
+First watched/followed the Agent dev school from Shaw youtube videos
+
 https://www.youtube.com/watch?v=ArptLpQiKfI(https://www.youtube.com/watch?v=ArptLpQiKfI)
 
-and then cloned the starter ( the readme below my comments are from the starter... )
+cloned the starter ( the readme below my comments are from the starter... )
 
 added a character, the env variables needed and thats it, works right away! Magic!
 
-#Original README:
+# Original README:
 
 # Eliza
 
